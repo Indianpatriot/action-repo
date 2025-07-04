@@ -1,2 +1,2 @@
 # action-repo
-Techstax project
+Techstax projects
